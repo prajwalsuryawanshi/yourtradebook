@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "trades/wsgi.py"
+      "dest": "trading_journal/wsgi.py"
     }
   ]
 }
